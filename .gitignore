@@ -1,0 +1,21 @@
+# Environnements Python
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Données
+data/raw/*.csv
+data/raw/*.xlsx
+
+# Modèles entraînés
+models/*.pkl
+models/*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
